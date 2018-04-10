@@ -1,0 +1,39 @@
+For chunksize = 100, eval_every = 10 (default):
+------------------------------------------------------
+
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 3
+
+Time taken to train model is 140.06461244299862 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 1
+
+Time taken to train model is 232.66629607899813 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 4
+
+Time taken to train model is 130.42418622800324 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 2
+
+Time taken to train model is 147.1987484899946 seconds.
+
+
+For chunksize = 100, eval_every = 1:
+------------------------------------------------------
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 3
+
+Time taken to train model is 164.2586800220015 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 1
+
+Time taken to train model is 412.23815798899886 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 2
+
+Time taken to train model is 190.4948040149975 seconds.
+
+[surajg@surajg-PC][~/Desktop/ppproject] -> python3 ldamulticore.py 4
+
+Time taken to train model is 137.52571635200002 seconds.
