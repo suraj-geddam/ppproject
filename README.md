@@ -1,6 +1,6 @@
 # ppproject
 
-> Made during my undergrad (Parallel Programming Paradigms, Spring 2018), pls don't look at the code lol
+> Made during my undergrad (CS 421, Parallel Programming Paradigms, Spring 2018), pls don't look at the code lol
 
 A couple of experiments from back then:
 
